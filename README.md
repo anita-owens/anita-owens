@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **anita-owens/anita-owens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 I'm an Analytics Engineer at last-mile delivery giant [Instabee](https://instabee.com/) in Stockholm.
 
 I currently work in dbt, Snowflake, FiveTran, Google Cloud Platform and Tableau.
+
+I also have exeprience in Python, R, and BigQuery.
+
+📫 How to reach me: www.linkedin.com/in/anitaowens
