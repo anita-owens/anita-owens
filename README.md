@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an Analytics Engineer at last-mile delivery giant [Instabee](https://instabee.com/).
+I'm an Analytics Engineer at last-mile delivery giant [Instabee](https://instabee.com/) in Stockholm.
