@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 💼 Experience:
 
-I'm currently an Analytics Engineer at last-mile delivery giant [Instabee](https://instabee.com/) (Instabox, Budbee) in Stockholm. I have over 8 years of experience in data and analytics across diverse industries including logistics, e-commerce, financial services, and telecom. 
+I'm currently an Analytics Engineer at last-mile delivery giant [Instabee](https://instabee.com/) (Instabox, Budbee) in Stockholm. I have 8+ years of experience in data and analytics across diverse industries including logistics, e-commerce, financial services, and telecom. 
 
 💻 Skills:
 
