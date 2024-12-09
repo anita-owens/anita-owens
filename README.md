@@ -17,15 +17,13 @@ Here are some ideas to get you started:
 
 💼 Experience:
 
-I'm currently an Analytics Engineer at last-mile delivery giant [Instabee](https://instabee.com/) (Instabox, Budbee) in Stockholm. I have 8+ years of experience in data and analytics across diverse industries including logistics, e-commerce, financial services, and telecom. 
+Most recently, I worked as an Analytics Engineer at last-mile delivery giant [Instabee](https://instabee.com/) (Instabox, Budbee) in Stockholm, where I also stepped into a leadership role as Tech Lead/Interim BI Manager. Over my time there, I led a high-performing BI team, streamlined data workflows, and delivered impactful analytics solutions supporting logistics operations in multiple markets.
 
 💻 Skills:
 
-I currently work with dbt, Snowflake, FiveTran, Google Cloud Platform, Github and Tableau.
+I have expertise in dbt (Core and Cloud), Snowflake, FiveTran, Google Cloud Platform, GitHub, and Tableau, along with experience in Statistical Analysis, A/B Testing, Python/R, Google Analytics 360/GA4, Google Marketing Platform, BigQuery, Excel/Google Sheets.
 
-I also have exeprience with Statistical Analysis, A/B Testing, Python/R, Google Analytics 360/GA4, Google Marketing Platform, BigQuery, Excel/Google Sheets.
-
-🔗 Connect with Me:
+📫 Connect with Me:
 
 - [LinkedIn](https://www.linkedin.com/in/anitaowens)
 - [Medium](https://anitaowens.medium.com)
