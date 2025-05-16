@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 💼 Experience:
 
-Most recently, I worked as an Analytics Engineer at last-mile delivery giant [Instabee](https://instabee.com/) (Instabox, Budbee) in Stockholm, where I also stepped into a leadership role as Tech Lead/Interim BI Manager. Over my time there, I led a high-performing BI team, streamlined data workflows, and delivered impactful analytics solutions supporting logistics operations in multiple markets.
+I'm currently an Analytics Engineer at Akind Group. I also worked as an Analytics Engineer at last-mile delivery giant [Instabee](https://instabee.com/) (Instabox, Budbee) in Stockholm, where I also stepped into a leadership role as Tech Lead/Interim BI Manager. Over my time there, I led a high-performing BI team, streamlined data workflows, and delivered impactful analytics solutions supporting logistics operations in multiple markets.
 
 💻 Skills:
 
